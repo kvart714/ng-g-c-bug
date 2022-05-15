@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "ng-g-c-bug"
+  "defaultProject": "ng-g-c-bug",
+  "cli": {
+    "defaultCollection": "./.schematics/collection.json"
+  }
 }
